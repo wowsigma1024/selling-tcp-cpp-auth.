@@ -12,3 +12,5 @@ Features exposed via CheckoutButton, pricing list, login/register navigation, an
 Infrastructure/ops:
 
 PostgreSQL pool usage for all APIs, Cloudflare R2 storage with typed content dispositions, environment configurable file-size cap, and helper utilities for plan sanitization/normalization
+
+discord->thereal0x9
